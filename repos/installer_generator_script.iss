@@ -14,8 +14,8 @@ Source: "wzaudiomanager.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "config.ini"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
-Name: "{autoprograms}\WZ Audio Manager"; Filename: "{app}\wzaudiomanager.exe"; IconFilename: "\icon.ico"  
-Name: "{userdesktop}\WZ Audio Manager"; Filename: "{app}\wzaudiomanager.exe"; IconFilename: "\icon.ico" 
+Name: "{autoprograms}\WZ Audio Manager"; Filename: "{app}\wzaudiomanager.exe"; IconFilename: "icon.ico"  
+Name: "{userdesktop}\WZ Audio Manager"; Filename: "{app}\wzaudiomanager.exe"; IconFilename: "icon.ico" 
 
 [Registry]
 Root: HKCU; Subkey: "Software\Microsoft\Windows\CurrentVersion\Uninstall\WZ Audio Manager"; ValueName: "DisplayName"; ValueData: "WZ Audio Manager"; Flags: uninsdeletekey

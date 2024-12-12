@@ -2,6 +2,8 @@
 
 WZ Audio Manager è un widget sempre visibile, sopra ogni applicazione, che consente di gestire l'audio del gioco, la chat e il microfono di Discord, fornendo un feedback visivo sullo stato di ciascun elemento.
 
+![Screenshot WZ Audio Manager](Screen.png)
+
 ## Come Scaricarlo
 
 Il widget è scaricabile da qui: [DOWNLOAD WZAUDIOMANAGER](https://drive.google.com/file/d/1Uvqfyki97aQi3o4jQ96-yYxlIM8Kb_Tl/view?usp=sharing)

@@ -4,7 +4,7 @@ WZ Audio Manager è un widget sempre visibile, sopra ogni applicazione, che cons
 
 ## Come Eseguirlo
 
-Per eseguire il widget, basta avviare il file `wzaudiomanager.exe` situato nella cartella *'ESEGUIBILE'*. Per il corretto funzionamento, è necessario solo il file eseguibile e il file `config.ini`, che deve essere sempre nella stessa cartella dell'eseguibile. I file presenti nella cartella *'repos'* appartengono al progetto e non sono necessari per l'esecuzione del programma.
+Per eseguire il widget, basta scompattare l'archivio `wzaudiomanager.zip` ed eseguire il file `wzaudiomanager.exe`. Per il corretto funzionamento, sono necessari solo il file eseguibile e il file `config.ini`, che devono essere sempre nella stessa cartella. I file presenti nella cartella *'repos'* appartengono al progetto e non sono necessari per l'esecuzione del programma.
 
 ## Come Usarlo
 

@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --add-data "drag.png;." --add-data "close.png;." --add-data "microphone.png;." --add-data "joystick.png;." --add-data "chat.png;." --add-data "all.png;." wzaudiomanager.py
